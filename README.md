@@ -132,27 +132,6 @@ streamlit run app.py
 
 ---
 
-## 🚨 Common Issues
-
-### ❌ API Key Errors
-
-Ensure `.env` is properly configured and loaded.
-
----
-
-### ❌ OpenAI Quota Error (429)
-
-Check billing and usage:
-https://platform.openai.com/usage
-
----
-
-### ❌ GitHub Push Blocked
-
-Ensure `.env` is excluded via `.gitignore`.
-
----
-
 ## 🔐 Security Best Practices
 
 * Never commit API keys
@@ -169,17 +148,3 @@ Ensure `.env` is excluded via `.gitignore`.
 * 📦 Docker deployment
 * 💾 Caching & memory integration
 
----
-
-## 👨‍💻 Author
-
-**Aurosampad Mohanty**
-Machine Learning Engineer | AI Systems Developer
-
----
-
-## ⭐ If you found this useful
-
-Give the repo a ⭐ and feel free to contribute!
-
----
